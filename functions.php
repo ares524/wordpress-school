@@ -76,5 +76,8 @@ if(!function_exists('schooltheme')){
 
 } 
 
+// Included Files (Functions)
+require_once('inc/custom-courses.php');
+
 
 ?>
