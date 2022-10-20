@@ -7,149 +7,62 @@
           </div>
         </div>
         <div class="owl-carousel owl-theme">
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-01.jpg');?>" alt="Course #1">
-            <div class="down-content">
-              <h4>Digital Marketing</h4>
-              <p>You can get free images and videos for your websites by visiting Unsplash, Pixabay, and Pexels.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-01.png');?>" alt="Author 1">
-              </div>
-              <div class="text-button-pay">
-                <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-02.jpg');?>" alt="Course #2">
-            <div class="down-content">
-              <h4>Business World</h4>
-              <p>Quisque cursus augue ut velit dictum, quis volutpat enim blandit. Maecenas a lectus ac ipsum porta.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-02.png');?>" alt="Author 2">
-              </div>
-              <div class="text-button-free">
-                <a href="#">Free <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-03.jpg');?>" alt="Course #3">
-            <div class="down-content">
-              <h4>Media Technology</h4>
-              <p>Pellentesque ultricies diam magna, auctor cursus lectus pretium nec. Maecenas finibus lobortis enim.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-03.png');?>" alt="Author 3">
-              </div>
-              <div class="text-button-pay">
-                <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-04.jpg');?>" alt="Course #4">
-            <div class="down-content">
-              <h4>Communications</h4>
-              <p>Download free images and videos for your websites by visiting Unsplash, Pixabay, and Pexels.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-04.png');?>" alt="Author 4">
-              </div>
-              <div class="text-button-free">
-                <a href="#">Free <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-05.jpg');?>" alt="">
-            <div class="down-content">
-              <h4>Business Ethics</h4>
-              <p>Pellentesque ultricies diam magna, auctor cursus lectus pretium nec. Maecenas finibus lobortis enim.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-05.png');?>" alt="">
-              </div>
-              <div class="text-button-pay">
-                <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-01.jpg');?>" alt="">
-            <div class="down-content">
-              <h4>Photography</h4>
-              <p>Quisque cursus augue ut velit dictum, quis volutpat enim blandit. Maecenas a lectus ac ipsum porta.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-01.png');?>" alt="">
-              </div>
-              <div class="text-button-free">
-                <a href="#">Free <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-02.jpg');?>" alt="">
-            <div class="down-content">
-              <h4>Web Development</h4>
-              <p>Pellentesque ultricies diam magna, auctor cursus lectus pretium nec. Maecenas finibus lobortis enim.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-02.png');?>" alt="">
-              </div>
-              <div class="text-button-free">
-                <a href="#">Free <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-03.jpg');?>" alt="">
-            <div class="down-content">
-              <h4>Learn HTML CSS</h4>
-              <p>You can get free images and videos for your websites by visiting Unsplash, Pixabay, and Pexels.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-03.png');?>" alt="">
-              </div>
-              <div class="text-button-pay">
-                <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-04.jpg');?>" alt="">
-            <div class="down-content">
-              <h4>Social Media</h4>
-              <p>Pellentesque ultricies diam magna, auctor cursus lectus pretium nec. Maecenas finibus lobortis enim.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-04.png');?>" alt="">
-              </div>
-              <div class="text-button-pay">
-                <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-05.jpg');?>" alt="">
-            <div class="down-content">
-              <h4>Digital Arts</h4>
-              <p>Quisque cursus augue ut velit dictum, quis volutpat enim blandit. Maecenas a lectus ac ipsum porta.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-05.png');?>" alt="">
-              </div>
-              <div class="text-button-free">
-                <a href="#">Free <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <img src="<?php echo get_theme_file_uri('assets/images/courses-01.jpg');?>" alt="">
-            <div class="down-content">
-              <h4>Media Streaming</h4>
-              <p>Pellentesque ultricies diam magna, auctor cursus lectus pretium nec. Maecenas finibus lobortis enim.</p>
-              <div class="author-image">
-                <img src="<?php echo get_theme_file_uri('assets/images/author-01.png');?>" alt="">
-              </div>
-              <div class="text-button-pay">
-                <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
-              </div>
-            </div>
-          </div>
+
+                <?php
+                    // the query (for Post Loop)
+
+                    $args = array(
+                        'post_type' => 'customcourse'
+                    );
+
+                    $the_query = new WP_Query( $args ); ?>
+
+                    <?php if ( $the_query->have_posts() ) : ?>
+
+                        <!-- pagination here -->
+
+                        <!-- the loop -->
+                        <?php while ( $the_query->have_posts() ) : $the_query->the_post(); 
+                        $image_url;
+                        // Image Location.
+                        if ( has_post_thumbnail() ) {
+                            $image_url = get_the_post_thumbnail_url(get_the_ID());
+                        }
+                        else {
+                            $image_url = get_bloginfo('stylesheet_directory') .'/img/about.jpg"';
+                        }
+                        
+                        ?>
+                        <!-- HTML Code Design -->
+
+                        <div class="item">
+                          <img src="<?php echo $image_url; ?>" alt="Course #1">
+                          <div class="down-content">
+                            <h4><?php the_title(); ?></h4>
+                            <p><?php the_content(); ?></p>
+                            <div class="author-image">
+                              <img src="<?php echo get_theme_file_uri('assets/images/author-01.png');?>" alt="Author 1">
+                            </div>
+                            <div class="text-button-pay">
+                              <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                          </div>
+                        </div>
+                            
+                        <?php endwhile; ?>
+                        <!-- end of the loop -->
+
+                        <!-- pagination here -->
+
+                        <?php wp_reset_postdata(); ?>
+
+                    <?php else : ?>
+                        <p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
+                    <?php endif; 
+                    // End the query (for Post Loop) 
+
+                ?>
+                
         </div>
       </div>
     </div>
